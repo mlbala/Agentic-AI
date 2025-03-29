@@ -1,0 +1,12 @@
+langchain
+ipykernel
+openai
+numpy
+pandas
+python-dotenv
+google-genai
+langchain-openai
+langchain-core
+langchain-community
+bs4
+faiss-cpu
