@@ -135,6 +135,11 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+<<<<<<< HEAD
+=======
+./venvs
+venvs/
+>>>>>>> b15806c (gitignore update)
 
 # Spyder project settings
 .spyderproject
@@ -172,3 +177,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# DS_Store  igonre
+.DS_Store
